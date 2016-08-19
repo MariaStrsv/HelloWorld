@@ -2,7 +2,7 @@
 {
     public static class CF1class
     {
-        public static int x2(int x)
+        public static int f(int x)
         {
             return x * 2;
         }
