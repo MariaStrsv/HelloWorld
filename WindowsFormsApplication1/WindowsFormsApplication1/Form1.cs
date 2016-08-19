@@ -21,12 +21,12 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(CF1class.f(Convert.ToInt32(textBox1.Text)).ToString());//
+            MessageBox.Show(CF1class.f(Convert.ToInt32(textBox1.Text)).ToString());
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(CF2class.f(Convert.ToInt32(textBox1.Text)).ToString());//
+            MessageBox.Show(CF2class.f(Convert.ToInt32(textBox1.Text)).ToString());
         }
     }
 }
