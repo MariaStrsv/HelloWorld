@@ -20,6 +20,9 @@ namespace WindowsFormsApplication1
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = (Convert.ToInt32(label1.Text)+1).ToString();
+           // pictureBox1.Image = "iWre0S8R0NI.jpg";
         }
+
+        
     }
 }
