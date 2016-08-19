@@ -20,6 +20,8 @@ namespace WindowsFormsApplication1
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = (Convert.ToInt32(label1.Text)+1).ToString();
+            MessageBox.Show("Затея с картинкой - тухлая!");
+
         }
     }
 }
